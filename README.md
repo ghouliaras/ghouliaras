@@ -3,21 +3,21 @@
 
 <!-- ============ TYPING TAGLINE (animated) ============ -->
 <p align="center">
-  <a href="https://github.com/ghouliaras">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Patras%2C+Greece;WordPress+%26+WooCommerce+Specialist;PHP+%2F+Laravel+craftsman;Building+real+products+with+AI" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/ghouliaras">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Patras%2C+Greece;WordPress+%26+WooCommerce+Specialist;PHP+%2F+Laravel+craftsman;Building+real+products+with+AI" alt="Typing SVG" />
+</a>
 </p>
 
 <!-- ============ SOCIAL BADGES ============ -->
 <p align="center">
-  <a href="https://www.flowcreations.gr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/ghouliaras/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Patras,%20Greece-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=ghouliaras&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
+<a href="https://www.flowcreations.gr" target="_blank">
+<img src="https://img.shields.io/badge/Website-flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/ghouliaras/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://img.shields.io/badge/Patras,%20Greece-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=ghouliaras&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -45,33 +45,33 @@ I care about clean architecture, security and code that's still easy to maintain
 ## Tech Stack
 
 <table>
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css" alt="languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frameworks &amp; CMS</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=laravel,wordpress" alt="frameworks" />
-      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" height="48" alt="woocommerce" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Databases &amp; DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,docker,git,linux,bash,vscode" alt="devops" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>AI &amp; Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="48" alt="openai" />
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="48" alt="claude" />
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48" alt="n8n" />
-    </td>
-  </tr>
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css" alt="languages" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Frameworks &amp; CMS</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=laravel,wordpress" alt="frameworks" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" height="48" alt="woocommerce" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Databases &amp; DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,linux,bash,vscode" alt="devops" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>AI &amp; Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="48" alt="openai" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="48" alt="claude" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48" alt="n8n" />
+</td>
+</tr>
 </table>
 
 ---
@@ -101,16 +101,16 @@ I care about clean architecture, security and code that's still easy to maintain
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghouliaras&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=2563EB&title_color=2563EB&icon_color=2563EB" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouliaras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&title_color=2563EB" alt="top langs" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghouliaras&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=2563EB&title_color=2563EB&icon_color=2563EB" alt="stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghouliaras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&title_color=2563EB" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=tokyonight&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=tokyonight&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghouliaras&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2563EB&line=2563EB&point=ffffff&area=true" alt="activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghouliaras&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2563EB&line=2563EB&point=ffffff&area=true" alt="activity graph" />
 </p>
 
 ---
@@ -120,8 +120,8 @@ I care about clean architecture, security and code that's still easy to maintain
 Whether you have a project in mind, need a WooCommerce store that actually performs, or want to add AI to your product — I'd be glad to hear from you.
 
 <p align="center">
-  <a href="https://www.flowcreations.gr" target="_blank"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
-  <a href="https://www.linkedin.com/in/ghouliaras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.flowcreations.gr" target="_blank"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://www.linkedin.com/in/ghouliaras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 <!-- ============ FOOTER BANNER (animated) ============ -->
