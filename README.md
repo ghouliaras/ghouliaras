@@ -28,6 +28,21 @@ I'm a full stack developer based in Patras, Greece. I build scalable, high-perfo
 
 I care about clean architecture, security and code that's still easy to maintain six months later. I'm currently available for freelance work and collaborations.
 
+### Quick Facts
+
+- Based in **Patras, Greece** (UTC+3) — working with clients across the EU and remotely worldwide.
+- Currently **available for freelance work** and longer-term collaborations.
+- Comfortable owning a project end to end — from architecture and build to deployment and maintenance.
+
+---
+
+## Currently Building
+
+- **Multi-tenant SaaS on Laravel** — with a custom licensing and activation layer for distributing and managing commercial products.
+- **Deployment tooling** — internal tools that ship WordPress and Laravel applications from source control to production reliably.
+- **Data pipelines & scrapers** — collection, aggregation and search over large public datasets.
+- **AI agents & automation** — experimenting with agent workflows and AI-assisted tooling that automate real business tasks.
+
 ---
 
 ## What I Do
@@ -85,6 +100,15 @@ I care about clean architecture, security and code that's still easy to maintain
 | **Laravel SaaS Platforms** | Multi-tenant SaaS applications with custom dashboards, licensing and automation. |
 | **AI & Automation Tools** | Scrapers, data pipelines and AI-assisted workflows that automate real business tasks. |
 
+### Types of systems I've shipped
+
+- **Licensing & activation servers** — issuing, validating and managing licenses for commercial software.
+- **B2B commerce platforms** — wholesale ordering, custom pricing and tailored checkout flows.
+- **Uptime & monitoring systems** — keeping production sites observable and reliable under load.
+- **Public-data search tools** — fast search and aggregation over large, regularly-updated datasets.
+- **Video hosting** — self-hosted media delivery and management.
+- **Network & router automation** — scripting and automating network infrastructure.
+
 > Most of my client work lives in private repositories. Happy to share details and walkthroughs on request.
 
 ---
@@ -107,6 +131,10 @@ I care about clean architecture, security and code that's still easy to maintain
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=tokyonight&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ghouliaras&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 <p align="center">
