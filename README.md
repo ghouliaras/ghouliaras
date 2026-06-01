@@ -1,5 +1,5 @@
 <!-- ============ HEADER BANNER (animated) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A1A3F&height=200&section=header&text=George%20Chouliaras&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20WordPress%20%26%20WooCommerce%20%C2%B7%20Building%20with%20AI&descSize=18&descAlignY=58&descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A1A3F&height=200&section=header&text=George%20Chouliaras&fontSize=46&fontColor=ffffff&fontAlignY=40" alt="header" />
 
 <!-- ============ TYPING TAGLINE (animated) ============ -->
 <p align="center">
