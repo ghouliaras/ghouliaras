@@ -4,6 +4,7 @@
 # - overview-*.svg : contribution overview (incl. private contributions),
 #                    built by .github/scripts/overview_card.py — no personal token needed.
 # - top-langs-*.svg: most used languages (public repositories).
+# - header-*.svg   : custom profile header, built by .github/scripts/make_header.py.
 
 name: Update README cards
 
@@ -15,7 +16,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/readme-cards.yml"
-      - ".github/scripts/overview_card.py"
+      - ".github/scripts/**"
 
 permissions:
   contents: write
@@ -27,6 +28,9 @@ jobs:
       COMMON: hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&ring_color=2563EB
     steps:
       - uses: actions/checkout@v6
+
+      - name: Profile header
+        run: python3 .github/scripts/make_header.py profile
 
       - name: Contribution overview card
         env:
