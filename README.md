@@ -1,156 +1,155 @@
-<!-- ============ HEADER BANNER (animated) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A1A3F&height=200&section=header&text=George%20Chouliaras&fontSize=46&fontColor=ffffff&fontAlignY=40" alt="header" />
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A1A3F&height=180&section=header&text=George%20Chouliaras&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20WordPress%20%C2%B7%20WooCommerce%20%C2%B7%20Laravel%20%C2%B7%20AI&descSize=16&descAlignY=60" alt="George Chouliaras — Full Stack Developer" />
 
-<!-- ============ TYPING TAGLINE (animated) ============ -->
 <p align="center">
-<a href="https://github.com/ghouliaras">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Patras%2C+Greece;WordPress+%26+WooCommerce+Specialist;PHP+%2F+Laravel+craftsman;Building+real+products+with+AI" alt="Typing SVG" />
-</a>
+  <a href="https://www.flowcreations.gr"><img src="https://img.shields.io/badge/Website-flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ghouliaras/"><img src="https://img.shields.io/badge/LinkedIn-ghouliaras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Patras,%20Greece-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Patras, Greece" />
+  <img src="https://img.shields.io/badge/Open%20to%20freelance-16A34A?style=for-the-badge" alt="Open to freelance work" />
 </p>
 
-<!-- ============ SOCIAL BADGES ============ -->
 <p align="center">
-<a href="https://www.flowcreations.gr" target="_blank">
-<img src="https://img.shields.io/badge/Website-flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://www.linkedin.com/in/ghouliaras/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<img src="https://img.shields.io/badge/Patras,%20Greece-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=ghouliaras&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <b>I build fast, secure and maintainable web products —<br/>from high-traffic WooCommerce stores to multi-tenant Laravel SaaS and AI-powered automations.</b>
 </p>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a full stack developer based in Patras, Greece. I build scalable, high-performance websites, plugins and SaaS products — mostly in the WordPress, WooCommerce and Laravel ecosystem — and I increasingly integrate AI into real products through automations, agents and custom workflows.
+I'm a full stack developer based in **Patras, Greece**, working with clients across the EU and remotely worldwide.
+My focus is the **WordPress, WooCommerce and Laravel** ecosystem, and more and more of my work brings **AI into real products** through automations, agents and custom workflows.
 
-I care about clean architecture, security and code that's still easy to maintain six months later. I'm currently available for freelance work and collaborations.
+I care about clean architecture, security and code that is still easy to work with six months later — and I'm comfortable owning a project end to end, from architecture and build to deployment and long-term maintenance.
 
-### Quick Facts
-
-- Based in **Patras, Greece** (UTC+3) — working with clients across the EU and remotely worldwide.
-- Currently **available for freelance work** and longer-term collaborations.
-- Comfortable owning a project end to end — from architecture and build to deployment and maintenance.
-
----
-
-## Currently Building
-
-- **Multi-tenant SaaS on Laravel** — with a custom licensing and activation layer for distributing and managing commercial products.
-- **Deployment tooling** — internal tools that ship WordPress and Laravel applications from source control to production reliably.
-- **Data pipelines & scrapers** — collection, aggregation and search over large public datasets.
-- **AI agents & automation** — experimenting with agent workflows and AI-assisted tooling that automate real business tasks.
-
----
-
-## What I Do
-
-| Service | Details |
+| | |
 | --- | --- |
-| **WooCommerce Development** | Custom, high-performance online stores, B2B platforms, checkout and shipping logic, and tailored extensions. |
-| **WordPress Plugins & Themes** | Bespoke plugins and themes built for performance, security and long-term maintainability. |
-| **Laravel & SaaS** | Custom web applications and multi-tenant SaaS products built on Laravel. |
-| **AI Integration & Automation** | AI-powered automations, agents and integrations that connect real products to real workflows. |
-| **Performance & Security** | Audits, optimisation and hardening for sites that need to stay fast and reliable under load. |
+| 📍 **Location** | Patras, Greece · EET (UTC+2 / UTC+3 in summer) |
+| 💼 **Availability** | Open to freelance projects and long-term collaborations |
+| 🗣️ **Languages** | Greek (native) · English |
+| 🧩 **Specialities** | WooCommerce · WordPress plugins · Laravel SaaS · AI automation · Performance & security |
 
 ---
 
-## Tech Stack
+## 🛠️ What I Do
+
+| Service | What you get |
+| --- | --- |
+| **WooCommerce Development** | High-performance online stores, B2B / wholesale platforms, custom checkout, pricing and shipping logic, tailored extensions. |
+| **WordPress Plugins & Themes** | Bespoke plugins and themes built for speed, security and long-term maintainability. |
+| **Laravel & SaaS** | Custom web applications and multi-tenant SaaS products, including licensing, billing-ready architecture and admin dashboards. |
+| **AI Integration & Automation** | LLM-powered features, agents and workflow automations (OpenAI, Claude, n8n) wired into real business processes. |
+| **Performance & Security** | Audits, caching strategy, query optimisation and hardening for sites that must stay fast and reliable under load. |
+| **Maintenance & Support** | Updates, monitoring, backups and ongoing improvements after launch. |
+
+---
+
+## 🚀 Selected Work
+
+Most of my client work lives in private repositories — **happy to share details and walkthroughs on request.**
+
+**Systems I've designed and shipped**
+
+- **Licensing & activation servers** — issuing, validating and managing licenses for commercial software.
+- **B2B commerce platforms** — wholesale ordering, customer-specific pricing and tailored checkout flows.
+- **Multi-tenant SaaS on Laravel** — custom dashboards, licensing and automation.
+- **Uptime & monitoring systems** — keeping production sites observable and reliable.
+- **Public-data search tools** — fast search and aggregation over large, regularly updated datasets.
+- **Self-hosted video platform** — media delivery and management.
+- **Network & router automation** — scripting and automating network infrastructure.
+
+**Open-source WordPress plugins**
+
+| Plugin | Description |
+| --- | --- |
+| [**wp-cache-inspector**](https://github.com/ghouliaras/wp-cache-inspector) | Diagnose server, page, object and browser caching — HIT/MISS tests, response headers, a dev no-cache mode and one-click purging. |
+| [**admin-quick-search**](https://github.com/ghouliaras/admin-quick-search) | A universal quick search for the WordPress admin to jump straight to posts, pages, users and more. |
+| [**broken-image-replacer**](https://github.com/ghouliaras/broken-image-replacer) | Detects broken images and replaces them with a customisable placeholder. |
+| [**classic-editor-widgets**](https://github.com/ghouliaras/classic-editor-widgets) | Restores the classic TinyMCE editor and the classic widget screens. |
+
+**Currently building**
+
+- A **multi-tenant Laravel SaaS** with its own licensing and activation layer.
+- **Deployment tooling** that ships WordPress and Laravel apps from Git to production reliably.
+- **Data pipelines & scrapers** for collecting and searching large public datasets.
+- **AI agents** that automate real business tasks.
+
+---
+
+## 🧰 Tech Stack
 
 <table>
-<tr>
-<td align="right"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css" alt="languages" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Frameworks &amp; CMS</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=laravel,wordpress" alt="frameworks" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" height="48" alt="woocommerce" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Databases &amp; DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,linux,bash,vscode" alt="devops" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>AI &amp; Automation</b></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="48" alt="openai" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="48" alt="claude" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48" alt="n8n" />
-</td>
-</tr>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css" alt="PHP, JavaScript, TypeScript, Python, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks &amp; CMS</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel,wordpress" alt="Laravel, WordPress" />
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" height="48" alt="WooCommerce" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,docker,git,linux,bash,vscode" alt="MySQL, Docker, Git, Linux, Bash, VS Code" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI &amp; Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="48" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="48" alt="Claude" />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48" alt="n8n" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Featured Work
+## 🤝 How I Work
 
-| Project | Description |
+| Principle | In practice |
 | --- | --- |
-| **[FlowCreations](https://www.flowcreations.gr)** | My web development studio — custom WordPress, WooCommerce and Laravel solutions for clients. |
-| **WooCommerce Extensions** | Custom shipping, checkout and multi-step product flows for high-traffic stores. |
-| **Laravel SaaS Platforms** | Multi-tenant SaaS applications with custom dashboards, licensing and automation. |
-| **AI & Automation Tools** | Scrapers, data pipelines and AI-assisted workflows that automate real business tasks. |
+| **Clean, maintainable code** | Readable structure, sensible conventions and documentation the next developer (often future me) can build on. |
+| **Security first** | Safe defaults, careful handling of data and hardening where it matters. |
+| **Performance minded** | Fast load times, lean queries and caching that scales with real traffic. |
+| **Clear communication** | Straightforward updates, honest timelines and no jargon for its own sake. |
 
-### Types of systems I've shipped
-
-- **Licensing & activation servers** — issuing, validating and managing licenses for commercial software.
-- **B2B commerce platforms** — wholesale ordering, custom pricing and tailored checkout flows.
-- **Uptime & monitoring systems** — keeping production sites observable and reliable under load.
-- **Public-data search tools** — fast search and aggregation over large, regularly-updated datasets.
-- **Video hosting** — self-hosted media delivery and management.
-- **Network & router automation** — scripting and automating network infrastructure.
-
-> Most of my client work lives in private repositories. Happy to share details and walkthroughs on request.
+**A typical engagement:** discovery call → scoped proposal & estimate → iterative build with regular demos → launch → ongoing support.
 
 ---
 
-## How I Work
+## 📊 GitHub Activity
 
-- **Clean, maintainable code** — I write code that the next developer (often future me) can understand and extend.
-- **Security first** — sensible defaults, careful handling of data, and hardening where it matters.
-- **Performance minded** — fast load times and queries that scale with real traffic.
-- **Clear communication** — straightforward updates, honest timelines, no jargon for its own sake.
-
----
-
-## GitHub Stats
-
+<!-- Stats cards are generated daily by .github/workflows/readme-cards.yml and stored in /profile,
+     so they don't depend on rate-limited public servers. -->
 <p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghouliaras&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=2563EB&title_color=2563EB&icon_color=2563EB" alt="stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghouliaras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&title_color=2563EB" alt="top langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img height="165" src="./profile/stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img height="165" src="./profile/top-langs-light.svg" alt="Most used languages" />
+  </picture>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=tokyonight&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy-omega.vercel.app/?username=ghouliaras&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits,Issues,Repositories,Experience" alt="trophies" />
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghouliaras&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2563EB&line=2563EB&point=ffffff&area=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=tokyonight&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=default&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Contribution streak" />
+  </picture>
 </p>
 
 ---
 
-## Let's Connect
+## 📬 Let's Work Together
 
-Whether you have a project in mind, need a WooCommerce store that actually performs, or want to add AI to your product — I'd be glad to hear from you.
+Have a project in mind, need a WooCommerce store that actually performs, or want to add AI to your product?
+**Get in touch — I'd be glad to hear from you.**
 
 <p align="center">
-<a href="https://www.flowcreations.gr" target="_blank"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
-<a href="https://www.linkedin.com/in/ghouliaras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.flowcreations.gr"><img src="https://img.shields.io/badge/Visit%20flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ghouliaras/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<!-- ============ FOOTER BANNER (animated) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:2563EB&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=70" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:2563EB&height=90&section=footer" alt="" />
