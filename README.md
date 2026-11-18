@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://www.flowcreations.gr"><img src="https://img.shields.io/badge/flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: flowcreations.gr" /></a>
   <a href="https://www.linkedin.com/in/ghouliaras/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Patras,%20Greece-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Patras, Greece" />
-  <img src="https://img.shields.io/badge/Open%20to%20freelance-16A34A?style=for-the-badge" alt="Open to freelance work" />
+  <a href="https://www.google.com/maps/place/Patras,+Greece"><img src="https://img.shields.io/badge/Patras,%20Greece-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Patras, Greece" /></a>
+  <a href="https://www.flowcreations.gr/contact/"><img src="https://img.shields.io/badge/Open%20to%20freelance-16A34A?style=for-the-badge" alt="Open to freelance work — get in touch" /></a>
 </p>
 
 ## About
@@ -176,6 +176,6 @@ Most of my client work lives in private repositories — **happy to share detail
 Have a project in mind, need a WooCommerce store that actually performs, or want to add AI to your product? I'd be glad to hear from you.
 
 <p align="center">
-  <a href="https://www.flowcreations.gr"><img src="https://img.shields.io/badge/Start%20a%20project%20→%20flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start a project at flowcreations.gr" /></a>
+  <a href="https://www.flowcreations.gr/contact/"><img src="https://img.shields.io/badge/Start%20a%20project%20→%20flowcreations.gr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start a project at flowcreations.gr" /></a>
   <a href="https://www.linkedin.com/in/ghouliaras/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" /></a>
 </p>
