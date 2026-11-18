@@ -47,8 +47,8 @@ I care about clean architecture, security and code that is still easy to work wi
       Audits, caching strategy, query optimisation and hardening for sites that must stay fast and reliable under load.
     </td>
     <td width="50%" valign="top">
-      <h3>Maintenance &amp; Support</h3>
-      Updates, monitoring, backups and continuous improvements long after launch.
+      <h3>Release Management &amp; Support</h3>
+      Versioned releases, changelogs and staged rollouts from Git to production — plus updates, monitoring and backups long after launch.
     </td>
   </tr>
 </table>
@@ -118,17 +118,27 @@ Most of my client work lives in private repositories — **happy to share detail
 <img src="https://img.shields.io/badge/HTML-1E293B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-1E293B?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 
-**Frameworks &amp; CMS**<br/>
+**Frameworks, CMS &amp; Frontend**<br/>
 <img src="https://img.shields.io/badge/Laravel-1E293B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/WordPress-1E293B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 <img src="https://img.shields.io/badge/WooCommerce-1E293B?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-1E293B?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Alpine.js-1E293B?style=for-the-badge&logo=alpinedotjs&logoColor=white" alt="Alpine.js" />
 
 **Databases &amp; DevOps**<br/>
 <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-1E293B?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/Bash-1E293B?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1E293B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Composer-1E293B?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+<img src="https://img.shields.io/badge/Postman-1E293B?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
+**Hosting &amp; CDN**<br/>
+<img src="https://img.shields.io/badge/Cloudflare-1E293B?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/cPanel-1E293B?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
 
 **AI &amp; Automation**<br/>
 <img src="https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -137,6 +147,13 @@ Most of my client work lives in private repositories — **happy to share detail
 <img src="https://img.shields.io/badge/Perplexity-1E293B?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
 <img src="https://img.shields.io/badge/Qwen-1E293B?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen" />
 <img src="https://img.shields.io/badge/n8n-1E293B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+**Project &amp; Release Management**<br/>
+<img src="https://img.shields.io/badge/Jira-1E293B?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/ClickUp-1E293B?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+<img src="https://img.shields.io/badge/Trello-1E293B?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+<img src="https://img.shields.io/badge/Notion-1E293B?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Slack-1E293B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 
 ## How I Work
 
