@@ -120,23 +120,19 @@ Most of my client work lives in private repositories — **happy to share detail
 
 ## 📊 GitHub Activity
 
-<!-- Stats cards are generated daily by .github/workflows/readme-cards.yml and stored in /profile,
-     so they don't depend on rate-limited public servers. -->
+<!-- Cards are generated daily by .github/workflows/readme-cards.yml and stored in /profile.
+     The overview includes private client work from the contribution calendar. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img height="165" src="./profile/stats-light.svg" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <img height="165" src="./profile/top-langs-light.svg" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/overview-dark.svg" />
+    <img width="100%" src="./profile/overview-light.svg" alt="Contribution overview: total contributions, last 12 months, streaks and public repositories" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=tokyonight&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouliaras&theme=default&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img height="165" src="./profile/top-langs-light.svg" alt="Most used languages" />
   </picture>
 </p>
 
