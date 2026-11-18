@@ -1,0 +1,66 @@
+# Generates the GitHub stats cards daily and commits them to /profile,
+# so the profile README never depends on a rate-limited public server.
+#
+# Optional (recommended, to include private client work in the stats):
+#   create a classic Personal Access Token with scopes "repo" + "read:user"
+#   and add it as a repository secret named STATS_TOKEN
+#   (Settings > Secrets and variables > Actions > New repository secret).
+#   Without it, the built-in GITHUB_TOKEN is used and only public repos count.
+
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      COMMON: hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&ring_color=2563EB
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=ghouliaras&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&${{ env.COMMON }}
+          path: profile/stats-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=ghouliaras&show_icons=true&include_all_commits=true&count_private=true&theme=default&${{ env.COMMON }}
+          path: profile/stats-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=ghouliaras&layout=compact&langs_count=8&count_private=true&theme=tokyonight&${{ env.COMMON }}
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=ghouliaras&layout=compact&langs_count=8&count_private=true&theme=default&${{ env.COMMON }}
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
