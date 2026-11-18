@@ -38,7 +38,7 @@ I care about clean architecture, security and code that is still easy to work wi
     </td>
     <td width="50%" valign="top">
       <h3>AI Integration &amp; Automation</h3>
-      LLM-powered features, agents and workflow automations (OpenAI, Claude, n8n) wired into real business processes.
+      LLM-powered features, agents and workflow automations (OpenAI, Claude, Gemini, Perplexity, Qwen, n8n) wired into real business processes.
     </td>
   </tr>
   <tr>
@@ -133,6 +133,9 @@ Most of my client work lives in private repositories — **happy to share detail
 **AI &amp; Automation**<br/>
 <img src="https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Claude-1E293B?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-1E293B?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Perplexity-1E293B?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+<img src="https://img.shields.io/badge/Qwen-1E293B?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen" />
 <img src="https://img.shields.io/badge/n8n-1E293B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 ## How I Work
